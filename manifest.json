@@ -1,0 +1,21 @@
+{
+  "short_name": "Goose Swap",
+  "name": "GooseSwap . Finance",
+  "description": "Get in pre-sale with Goose SWAP!",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+        {
+      "src": "main.png",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#fff0ff"
+}
